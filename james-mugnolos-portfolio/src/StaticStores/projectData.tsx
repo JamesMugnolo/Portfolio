@@ -36,6 +36,6 @@ export const ProjectData: IProjectDataLayout[] = [
     description:
       "NerdCache is a full stack web application that allows a user to manage their video game, book, and movie collections. The frontend uses React.js with MUI material library for some styling and Redux.js for ephemeral data storage. The backend uses Node.js to process restful API calls for getting and formatting data from external APIs as well as storing and modifying user and item data in a Postgres database.The website is orchestrated with docker containers and hosted through cloudflare.",
     githubLink: "https://github.com/JamesMugnolo/My-Catalog-Manager",
-    deployLink: "https://nerdcashe.jm-projects.com/",
+    deployLink: "https://nerdcache.jm-projects.com/",
   },
 ];
